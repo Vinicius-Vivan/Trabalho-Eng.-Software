@@ -1,25 +1,7 @@
 
-int main (void)
-{
-  int n;
-  
-  for (;;)
-  {
-    printf("Digite um numero inteiro: ");
-    scanf("%d", &n);
-    
-    if (n == 7)
-    {
-      printf("Saindo do loop...\n");
-      break; //força a saída do loop
-    }
-    
-    printf("Numero: %d\n",n);
-  }
-  
-  printf("Fim de programa");
-  getch();
-  return(0);
-}
+O código-fonte está na forma de arquivos .java.
 
-edit 1
+
+
+Lista duplamente ligada:
+
