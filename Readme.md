@@ -1,6 +1,5 @@
 
-O código-fonte está na forma de arquivos .java
-
+O código-fonte está na forma de arquivos .java.
 
 
 Lista duplamente ligada:
