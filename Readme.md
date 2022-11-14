@@ -3,13 +3,6 @@ int main (void)
 {
   int n;
   
-  /*
-  laço for vazio gera um loop infinito
-  
-  pois na prática, como não existe a condição
-  ela é considerada verdadeira
-  */
-  
   for (;;)
   {
     printf("Digite um numero inteiro: ");
@@ -29,4 +22,4 @@ int main (void)
   return(0);
 }
 
-Alo	
+edit 1
